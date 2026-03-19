@@ -1,0 +1,5 @@
+{
+  "name": "ProCV Generator",
+  "description": "A professional CV generator with live preview, multiple templates, and PDF export capabilities.",
+  "requestFramePermissions": []
+}
